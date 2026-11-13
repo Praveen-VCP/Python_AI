@@ -1,1 +1,6 @@
 Python pgm to add 2 nos
+
+a=10
+b=20
+Ans=a+b
+print(Ans)
